@@ -41,7 +41,7 @@ switch2.
 
 Direct connection: CIRCUIT DIAGRAM: 
 
-<img width="1919" height="1140" alt="EXOR" src="https://github.com/user-attachments/assets/d72d1493-50b1-4a4e-ac50-ff37ceefb427" />
+<img width="1918" height="1135" alt="EXNOR" src="https://github.com/user-attachments/assets/e9cec439-b8c5-45e0-b724-0cc0c45e46e4" />
 
 
 Tabulation:1
@@ -51,7 +51,7 @@ Tabulation:1
 	
 Cross connection: CIRCUIT DIAGRAM:
 
-<img width="1918" height="1135" alt="EXNOR" src="https://github.com/user-attachments/assets/e9cec439-b8c5-45e0-b724-0cc0c45e46e4" />
+<img width="1919" height="1140" alt="EXOR" src="https://github.com/user-attachments/assets/d72d1493-50b1-4a4e-ac50-ff37ceefb427" />
 
 
 Tabulation:2
